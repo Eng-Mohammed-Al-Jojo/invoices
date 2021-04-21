@@ -1,2 +1,0 @@
-# invoices
-Laravel project
